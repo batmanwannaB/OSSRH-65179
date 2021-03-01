@@ -1,4 +1,4 @@
-import add2numbers.Add
+package com.add.r
 
 object Test {
 
