@@ -1,4 +1,4 @@
-package com.add.r
+package com.github.batmanwannab
 
 object Test {
 
